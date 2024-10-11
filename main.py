@@ -169,3 +169,7 @@ while arr:
   print(heapq.heappop(arr))
 
 
+# Find intersection values in a set
+set1 = set([1])
+set2 = set([1])
+common = set1.intersection(set2)
